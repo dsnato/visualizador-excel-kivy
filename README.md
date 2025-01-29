@@ -30,7 +30,7 @@ Para executar o projeto, você precisará de:
 2. Instale as dependências necessárias:
 
    ```bash
-   pip install kivy pandas
+   pip install kivy pandas openpyxl
    ```
 
 3. Execute o aplicativo:
