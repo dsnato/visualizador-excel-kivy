@@ -2,6 +2,8 @@
 
 Este repositório contém 3 versões de um aplicativo desenvolvido com **Kivy** (versões beta) e **KivyMD** (versão final) para visualizar arquivos Excel de forma dinâmica e interativa. A aplicação oferece uma interface simples e intuitiva para carregar planilhas (`.xls`, `.xlsx`) e exibir e filtrar os dados em um **grid ajustável** com largura de colunas adaptada ao conteúdo.
 
+Assista agora a apresentação do App em execução: https://www.youtube.com/watch?v=H9vknZ6YEYQ
+
 ---
 
 ## ✨ Funcionalidades
