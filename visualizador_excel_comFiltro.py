@@ -100,3 +100,4 @@ class VisualizadorKivyExcelApp(App):
 
 if __name__ == '__main__':
     VisualizadorKivyExcelApp().run()  # Executa a aplicação
+
